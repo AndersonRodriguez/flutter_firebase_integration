@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988054722403",
+    "project_id": "flutter-firebase-integra-b9a6b",
+    "storage_bucket": "flutter-firebase-integra-b9a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988054722403:android:daece77053d52bc50ae556",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzAUXvdgv5b9lbmJnQz3vwckNUhfRfbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
